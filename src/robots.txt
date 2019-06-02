@@ -1,0 +1,47 @@
+User-agent: *
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Yandex
+Allow: /
+Host: www.stud-help.com
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Yandex
+Allow: /
+Sitemap: http://www.stud-help.com/sitemap.xml
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Googlebot
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Adsbot-Google
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Googlebot-Mobile
+Allow: /
+Disallow: /cms/
+Disallow: /modul/
+
+User-agent: Googlebot
+Allow: /
+Sitemap: http://www.stud-help.com/sitemap.xml
+Disallow: /cms/
+Disallow: /modul/

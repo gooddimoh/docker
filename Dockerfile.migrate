@@ -1,0 +1,2 @@
+FROM avega/website:cli-migration
+ADD ./src/app/migrations /var/migrate/db/migrations

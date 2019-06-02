@@ -1,0 +1,9 @@
+images:
+  image1:
+    file: Dockerfile
+    path: /
+    name: braca_backend_master
+  image2:
+    file: Dockerfile.migrate
+    path: /
+    name: braca_migrations_master

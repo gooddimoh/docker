@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/zadachi.com.ua/webstat"
+AuthUserFile /var/www/zadachi/data/etc/9175046.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

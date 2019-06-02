@@ -1,0 +1,32 @@
+Europe/Amsterdam	Europe/Andorra	Europe/Athens	Europe/Belfast	Europe/Belgrade
+Europe/Berlin	Europe/Bratislava	Europe/Brussels	Europe/Bucharest	Europe/Budapest
+Europe/Busingen	Europe/Chisinau	Europe/Copenhagen	Europe/Dublin	Europe/Gibraltar
+Europe/Guernsey	Europe/Helsinki	Europe/Isle_of_Man	Europe/Istanbul	Europe/Jersey
+Europe/Kaliningrad	Europe/Kiev	Europe/Lisbon	Europe/Ljubljana	Europe/London
+Europe/Luxembourg	Europe/Madrid	Europe/Malta	Europe/Mariehamn	Europe/Minsk
+Europe/Monaco	Europe/Moscow	Europe/Nicosia	Europe/Oslo	Europe/Paris
+Europe/Podgorica	Europe/Prague	Europe/Riga	Europe/Rome	Europe/Samara
+Europe/San_Marino	Europe/Sarajevo	Europe/Simferopol	Europe/Skopje	Europe/Sofia
+Europe/Stockholm	Europe/Tallinn	Europe/Tirane	Europe/Tiraspol	Europe/Uzhgorod
+Europe/Vaduz	Europe/Vatican	Europe/Vienna	Europe/Vilnius	Europe/Volgograd
+Europe/Warsaw	Europe/Zagreb	Europe/Zaporozhye	Europe/Zurich
+Australia/ACT	Australia/Adelaide	Australia/Brisbane	Australia/Broken_Hill	Australia/Canberra
+Australia/Currie	Australia/Darwin	Australia/Eucla	Australia/Hobart	Australia/LHI
+Australia/Lindeman	Australia/Lord_Howe	Australia/Melbourne	Australia/North	Australia/NSW
+Australia/Perth	Australia/Queensland	Australia/South	Australia/Sydney	Australia/Tasmania
+Australia/Victoria	Australia/West	Australia/Yancowinna
+Atlantic/Azores	Atlantic/Bermuda	Atlantic/Canary	Atlantic/Cape_Verde	Atlantic/Faeroe
+Atlantic/Faroe	Atlantic/Jan_Mayen	Atlantic/Madeira	Atlantic/Reykjavik	Atlantic/South_Georgia
+Atlantic/St_Helena	Atlantic/Stanley
+Pacific/Apia	Pacific/Auckland	Pacific/Chatham	Pacific/Chuuk	Pacific/Easter
+Pacific/Efate	Pacific/Enderbury	Pacific/Fakaofo	Pacific/Fiji	Pacific/Funafuti
+Pacific/Galapagos	Pacific/Gambier	Pacific/Guadalcanal	Pacific/Guam	Pacific/Honolulu
+Pacific/Johnston	Pacific/Kiritimati	Pacific/Kosrae	Pacific/Kwajalein	Pacific/Majuro
+Pacific/Marquesas	Pacific/Midway	Pacific/Nauru	Pacific/Niue	Pacific/Norfolk
+Pacific/Noumea	Pacific/Pago_Pago	Pacific/Palau	Pacific/Pitcairn	Pacific/Pohnpei
+Pacific/Ponape	Pacific/Port_Moresby	Pacific/Rarotonga	Pacific/Saipan	Pacific/Samoa
+Pacific/Tahiti	Pacific/Tarawa	Pacific/Tongatapu	Pacific/Truk	Pacific/Wake
+Pacific/Wallis	Pacific/Yap
+Indian/Antananarivo	Indian/Chagos	Indian/Christmas	Indian/Cocos	Indian/Comoro
+Indian/Kerguelen	Indian/Mahe	Indian/Maldives	Indian/Mauritius	Indian/Mayotte
+Indian/Reunion

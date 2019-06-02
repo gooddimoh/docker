@@ -1,0 +1,5 @@
+[28-Aug-2017 21:00:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/zadachi/sites/stud-help.com/modul/clean_datebase_files.php on line 4
+[29-Aug-2017 21:00:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/zadachi/sites/stud-help.com/modul/clean_datebase_files.php on line 4
+[30-Aug-2017 21:00:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/zadachi/sites/stud-help.com/modul/clean_datebase_files.php on line 4
+[14-Aug-2018 21:00:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/zadachi/sites/stud-help.com/modul/mysql.php on line 1
+[14-Aug-2018 21:00:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/zadachi/sites/stud-help.com/modul/mysql.php on line 1

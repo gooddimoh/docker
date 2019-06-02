@@ -1,0 +1,10 @@
+RewriteEngine on
+#RewriteBase /FranceOneCall
+# pages
+RewriteCond %{REQUEST_FILENAME}       !-d
+RewriteCond %{REQUEST_FILENAME}       !-f
+RewriteRule (.*).html$ index.php?ide=$1 [NS,L,PT,QSA]
+#AuthUserFile "/var/www/zadachi/.htpasswds/sites/stud-help.com/cms/passwd"
+#AuthName "cms"
+#AuthType Basic
+#require valid-user
